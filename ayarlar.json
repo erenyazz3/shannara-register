@@ -1,0 +1,24 @@
+  {
+  "prefix" : "prefix",
+  "sahip" : "325134650630471680",
+  "sunucu" : "sunucuid",
+  "token" : "token",
+  
+  "tag" : "tag",
+  "taglog":"",
+  "tagrol":"",
+
+  "yetkiliROL" : "kayıtrolid",
+
+  "erkekROL" : "erkekrolid",
+  "erkekICON" : "erkekıconrolid",
+  "erkekSEMBOL" : "erkeksembolrolid",
+
+  "kadınROL" : "kadınrolid",
+  "kadınICON" : "kadınıconolid",
+  "kadınSEMBOL" : "kadınsembolrolid",
+
+  "kayıtsızROL" : "kayıtsızolid",
+
+  "botROL" : "botunuzunrolü"
+}
